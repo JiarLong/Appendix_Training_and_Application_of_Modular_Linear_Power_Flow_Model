@@ -1,1 +1,1 @@
-This repository contains the training and application process of the modular linear power flow model, provided as an Appendix to the manuscript titled "Pricing Uncertainties with Arbitrary Distributions in Power Systems".
+This repository contains the training and application process of the modular linear power flow model, provided as an Appendix to the manuscript titled "Pricing Uncertainties with General Parametric Distributions in Power Systems".
